@@ -1,0 +1,2 @@
+# Netflix_clone
+THIS IS THE CLONE OF NETFLIX CLONE
